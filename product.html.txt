@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Product Details</h1>
+    </header>
+    <main>
+        <div class="product-details">
+            <img src="https://via.placeholder.com/300" alt="Product Image">
+            <h2>Product Name</h2>
+            <p>Company: ABC Corp</p>
+            <p>Category: Electronics</p>
+            <p>Price: $499.99</p>
+            <p>Rating: 4.5</p>
+            <p>Discount: 10%</p>
+            <p>Availability: In Stock</p>
+            <p> Laptop 1 details </p>
+        </div>
+    </main>
+</body>
+</html>
