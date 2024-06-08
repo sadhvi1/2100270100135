@@ -1,0 +1,18 @@
+The product structure for our react app to display top N products is :
+top-products-app/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── ProductCard.js
+│   │   ├── ProductDetails.js
+│   │   ├── ProductFilter.js
+│   │   └── Pagination.js
+│   ├── pages/
+│   │   ├── AllProducts.js
+│   │   └── ProductPage.js
+│   ├── services/
+│   │   └── productService.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+└── package.json
