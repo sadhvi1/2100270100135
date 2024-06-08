@@ -1,1 +1,25 @@
+Project structure for our react app for displaying top N products
+
+ecommerce-frontend/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Cart.js
+│   │   ├── Header.js
+│   │   ├── ProductCard.js
+│   │   ├── ProductDetails.js
+│   │   ├── ProductFilter.js
+│   │   ├── ProductList.js
+│   │   ├── Footer.js
+│   │   └── Pagination.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── Products.js
+│   │   └── ProductPage.js
+│   ├── services/
+│   │   └── productService.js
+│   ├── App.js
+│   ├── index.js
+│   └── App.css
+└── package.json
 
